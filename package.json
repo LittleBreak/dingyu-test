@@ -1,0 +1,12 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {},
+  "workspaces": [
+    "packages/*"
+  ],
+  "tnpm": {
+    "mode": "yarn",
+    "lockfile": "enable"
+  }
+}

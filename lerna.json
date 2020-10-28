@@ -1,0 +1,13 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "independent",
+  "npmClient": "tnpm",
+  "useWorkspaces": true,
+  "command": {
+    "publish": {
+      "registry": "https://registry.npm.alibaba-inc.com/"
+    }
+  }
+}
