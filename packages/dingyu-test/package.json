@@ -1,6 +1,6 @@
 {
-  "name": "@ali/dingyu-test",
-  "version": "1.0.2",
+  "name": "dingyu-test",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,13 +10,7 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "registry": "https://registry.npm.alibaba-inc.com"
+    "registry": "https://registry.npmjs.org/"
   },
-  "tnpm": {
-    "mode": "yarn",
-    "lockfile": "enable"
-  },
-  "dependencies": {
-    "lodash": "^4.17.20"
-  }
+  "dependencies": {}
 }
